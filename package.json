@@ -1,5 +1,5 @@
 {
-    "name": "@ant-design-vue/pro-layout",
+    "name": "@vue/pro-layout",
     "version": "1.0.11",
     "main": "./lib/index.js",
     "module": "./es/index.js",
@@ -8,8 +8,7 @@
         "url": "https://github.com/vueComponent/pro-layout"
     },
     "contributors": [
-        "tangjinzhou <415800467@qq.com>",
-        "Sendya <yladmxa@gmail.com>"
+        "astarry <1126133494@qq.com>"
     ],
     "license": "MIT",
     "scripts": {
